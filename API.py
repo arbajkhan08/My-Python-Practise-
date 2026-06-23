@@ -4,4 +4,4 @@ def factorial(n):
     return n * factorial(n-1)
 
 n = int(input("enter a number:"))
-print(f"the facorial number is :{factorial(n)}" )
+print(f"the facorial number is :{factorial(n+-+3))
